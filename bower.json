@@ -1,0 +1,17 @@
+{
+  "name": "battleship",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thatknitter/battleship",
+  "authors": [
+    "thatknitter <kblewis.flt@gmail.com>"
+  ],
+  "description": "battleship game",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
