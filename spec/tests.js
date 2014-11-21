@@ -11,12 +11,12 @@
     });
   });
 
-  // describe('building the grid', function() {
-    // describe('building the boat grid', function() {
-      // it('should return a 10x10 grid', function() {
-// 
-      // });
-    // });
-  // });
+  describe('building the grid', function() {
+    describe('building the boat grid', function() {
+      it('should return a 10x10 grid', function() {
+        
+      });
+    });
+  });
 
 })();
