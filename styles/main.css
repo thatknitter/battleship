@@ -24,6 +24,22 @@ table.boat {
   margin-left: 20px;
 }
 
+table.hits {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -750px;
+}
+
+table.hits tr td {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 75px;
+  height: 75px;
+  background-color: #888888;
+}
+
 .carrier {
   width: 375px;
   height: 75px;
@@ -63,4 +79,8 @@ button {
   float: right;
   margin-right: 40px;
   font-size: 16pt;
+}
+
+.hidden {
+  display: none;
 }
