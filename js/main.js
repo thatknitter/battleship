@@ -1,7 +1,9 @@
+
 $(function() {
   var $boatTable = $('boat');
   var $hitTable = $('hits');
   var $button = $('button');
+
 });
 
 function displayOutput() {
@@ -9,7 +11,4 @@ function displayOutput() {
 }
   var player1 = false;
   var player2 = true;
-
-function fire(){
-  
 }
