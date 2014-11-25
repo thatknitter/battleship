@@ -1,0 +1,66 @@
+table.boat tr td {
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 1px;
+  width: 75px;
+  height: 75px;
+  background-color: #66CCFF;
+}
+
+table.boat {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.boats {
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-top: -750px;
+  margin-left: 20px;
+}
+
+.carrier {
+  width: 375px;
+  height: 75px;
+  background-color: #808080;
+  margin: 3px;
+}
+
+.battleship {
+  width: 300px;
+  height: 75px;
+  background-color: #808080;
+  margin: 3px;
+}
+
+.dest {
+  width: 225px;
+  height: 75px;
+  background-color: #808080;
+  margin: 3px;
+}
+
+.sub {
+  width: 225px;
+  height: 75px;
+  background-color: #808080;
+  margin: 3px;
+}
+
+.pat {
+  width: 150px;
+  height: 75px;
+  background-color: #808080;
+  margin: 3px;
+}
+
+button {
+  float: right;
+  margin-right: 40px;
+  font-size: 16pt;
+}

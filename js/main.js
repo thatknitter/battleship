@@ -1,20 +1,15 @@
-// $(function(){
-  // var $table = $('table');
-// });
+$(function() {
+  var $boatTable = $('boat');
+  var $hitTable = $('hits');
+  var $button = $('button');
+});
 
 function displayOutput() {
   return $('#displayoutput').val();
 }
+  var player1 = false;
+  var player2 = true;
 
-// function boatGrid(){
-  // this.grid = [];
-  // for(i = 0; i < 10; i++) {
-    // this.grid[i] = [];
-    // for(j = 0; j < 10; j++){
-      // this.grid[i][j] = [];
-    // }
-  // }
-  // this.drawGrid = function(table, option){
-//     
-  // };
-// }
+function fire(){
+  
+}
