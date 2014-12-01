@@ -23,4 +23,8 @@ function fire() {
       player2 = false;
     }
  }
+ function aim(){
+   
+ }
+ 
 });
